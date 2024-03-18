@@ -1,5 +1,8 @@
 # Restaurant Reviews App
 
+> [!IMPORTANT]  
+> Proje dosyalarının son commit'i 17 Martta yapılmasının ardından repository public'e alındığında README içerisindeki görsellerin benim dışımdaki diğer kullanıcılara gözükmediği tespit edilmiştir. Yapılan uyarı ardından sadece README dosyası güncellenip görseller tekrar yüklenerek son commit 18 Martta atılmıştır. Bu committe proje dosyalarında herhangi bir değişim olmamıştır. README'nin önceki sürümünde görsellerin 17 Mart tarihinde benim kullanıcım tarafından sorunsuz bir şekilde görüntülenebildiği projemin sunum videosunda gösterilmiştir.
+
 ## Installation
 
 After cloning this project to your local, in the project directory, you can run:
@@ -8,12 +11,12 @@ After cloning this project to your local, in the project directory, you can run:
 
 ## Screenshots
 
-![WelcomeScreenFE](https://github.com/elifnurafsar/n11FinalCaseFE/assets/60623941/2149dba8-5bf1-4276-96d6-9c76db6812ce)
+![welcoming](https://github.com/elifnurafsar/n11FinalCaseFE/assets/60623941/76d28cda-521e-4a2e-b0db-0732612b036c)
 
-![restaurantsFE](https://github.com/elifnurafsar/n11FinalCaseFE/assets/60623941/efa5a98b-8a73-4cdf-8879-11d0afa00879)
+![restaurants](https://github.com/elifnurafsar/n11FinalCaseFE/assets/60623941/2c767b5a-e29e-4e23-bf25-6208259d8fa3)
 
-![reviewsFE](https://github.com/elifnurafsar/n11FinalCaseFE/assets/60623941/53ffa553-b799-489f-8db5-83da408fb749)
+![leave_comment](https://github.com/elifnurafsar/n11FinalCaseFE/assets/60623941/5f506590-1d45-4175-8a74-7fce65d14013)
 
-![createCommentFE](https://github.com/elifnurafsar/n11FinalCaseFE/assets/60623941/3c89c017-a867-4bbc-bd1d-48503bfbb16a)
+![reviews](https://github.com/elifnurafsar/n11FinalCaseFE/assets/60623941/2e2194ca-e63c-4052-ba71-08b5a0c28ccb)
 
-![suggestionsFE](https://github.com/elifnurafsar/n11FinalCaseFE/assets/60623941/e32cbd3c-be89-46b9-802d-6b2467e874a5)
+![suggested_restaurants](https://github.com/elifnurafsar/n11FinalCaseFE/assets/60623941/07d89b09-e2ee-4c19-b572-ee2339fc77ff)
